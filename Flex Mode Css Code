@@ -1,0 +1,33 @@
+Flex Mode Css
+
+
+
+  body{
+    
+    font-family: Roboto;
+    padding: 50px;
+    background-color: #fff ;
+  }
+  
+  
+  
+ .flex-container {
+   
+   
+   display: flex ;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 500px;
+   
+  background-color: lightgrey;
+  
+ }
+ 
+.flex-item {
+  
+ background-color: blue; 
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
