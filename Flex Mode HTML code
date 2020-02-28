@@ -1,0 +1,36 @@
+
+
+<!DOCTYPE html>
+    
+<html lang="en">
+
+
+<head> 
+<meta charset="uft-8">
+<title>
+  my first project
+</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+    <!-- Check Examples-->
+<div class="flex-container"> 
+	
+<h1>
+  Flex Mode</h1>
+  
+  
+<div class="flex-item"> Flex Item 1 </div>
+  
+  
+<div class="flex-item"> Flex Item 2 </div>
+  
+<div class="flex-item"> Flex Item  3 </div>
+  
+  
+  </div>
+  
+</body>
+</html>
