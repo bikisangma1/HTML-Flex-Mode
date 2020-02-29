@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+    
+<html lang="en">
+
+
+<head> 
+<meta charset="uft-8">
+<title>
+  Java Script Course
+</title>
+
+</head>
+
+<body>
+
+    <!-- Check Examples-->
+
+
+<script type="text/Javascript">
+  
+  
+  function showDate () {
+    
+    document.getElementById ("container").innerHTML=Date();
+    
+  }
+  
+</script>
+
+
+  <h1 id="container"> Welcome Back </h1>
+
+<input type="button" value=" Click Now" onclick="showDate()">
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
