@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+    
+<html lang="en">
+
+
+<head> 
+<meta charset="uft-8">
+<title>
+  Java Script Course
+</title>
+
+</head>
+
+<body>
+
+    <!-- Check Examples-->
+
+
+<script type="text/Javascript">
+  
+  
+  i = 0;
+  
+  while (i<10) {
+    
+    document.write(i + "<br>"); <!-- <br> tag Chara number gula suja show korbe --> 
+    
+    i++;
+    
+  }
+  
+</script>
+
+
+
+
+
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
